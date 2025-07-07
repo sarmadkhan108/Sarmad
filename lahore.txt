@@ -43,12 +43,12 @@ body {
 .menu li {
   padding: 8px;
   margin-bottom: 8px;
-  background-color: #363b63;
+  background-color:rgb(18, 26, 84);
   color: #ffffff;
 }
 
 .menu li:hover {
-  background-color: #0099cc;
+  background-color:rgb(88, 189, 223);
 }
 </style>
 </head>
@@ -70,7 +70,7 @@ body {
 
   <div class="column content">
     <h1>The City</h1>
-    <p>Lahore is the capital and largest city of the Pakistani province of Punjab. It is the second-largest city in Pakistan, after Karachi, and 27th largest in the world, with a population of over 14 million. Lahore is one of Pakistan's major industrial, educational and economic hubs. <p> Thank for visiting my page.</p>
+    <p>Lahore is the capital and largest city of the Pakistani province of Punjab. It is the second-largest city in Pakistan, after Karachi, and 27th largest in the world, with a population of over 14 million. Lahore is one of Pakistan's major industrial, educational and economic hubs. It's known as the Mughal City of Gardens<p> Thank for visiting my page.</p>
   </div>
 </div>
 
